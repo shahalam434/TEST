@@ -8,7 +8,7 @@ echo rtrim(dirname(__FILE__),'/\\' );
 
  include( 'load.php');
  
- fdgdfgdf
+
 
 
 
